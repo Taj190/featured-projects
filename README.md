@@ -16,7 +16,7 @@ Twilio integration for SMS notifications.
 
 #2 
 QuickTrip.me
-Live Link: quicktrip.me
+Live Link: https://quicktrip.me
 
 A platform for advance ride bookings, designed for seamless travel planning in Germany.
 
