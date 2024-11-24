@@ -2,8 +2,8 @@
 "Showcasing my key projects with live demos and details."
 
 #1
-🚀 RecruitWise
-Live Link: recruitwise.pt
+1. 🚀 RecruitWise
+Live Link: https://recruitwise.pt
 
 A job management platform for connecting EU employers with temporary workers.
 
