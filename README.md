@@ -29,6 +29,9 @@ Profile photo updates using AWS.
 Payment integration with Stripe for secure transactions.
 Location services with HERE API for accurate pickup/dropoff.
 Clean and responsive UI with Tailwind CSS.
+
+
+
 3#
 GJazz Tour and Travel
 Live Link:www.gjazztourandtravel.com
