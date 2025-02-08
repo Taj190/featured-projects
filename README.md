@@ -29,3 +29,18 @@ Profile photo updates using AWS.
 Payment integration with Stripe for secure transactions.
 Location services with HERE API for accurate pickup/dropoff.
 Clean and responsive UI with Tailwind CSS.
+3#
+GJazz Tour and Travel
+Live Link:www.gjazztourandtravel.com
+
+A tempo traveller and taxi booking platform built using Next.js, utilizing dynamic routing and conditional rendering to optimize the user experience.
+
+Tech Stack: Next.js, React, Node.js (Express), MongoDB,  Tailwind CSS
+
+Key Features:
+
+- Users can easily book tempo travellers and taxis for various travel needs.
+- Dynamic routes are used to handle vehicle bookings, ensuring flexibility.
+- Conditional rendering determines what to render on the server and what should be handled by the browser for performance optimization.
+- Clean and responsive UI with Tailwind CSS for a seamless user experience.
+
